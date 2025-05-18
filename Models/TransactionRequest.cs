@@ -1,5 +1,3 @@
-using System.Diagnostics.CodeAnalysis;
-
 namespace TransactionApi.Models;
 
 public class TransactionRequest
